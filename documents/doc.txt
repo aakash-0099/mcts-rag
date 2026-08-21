@@ -1,0 +1,51 @@
+COMPANY OVERVIEW: NORTHWIND ANALYTICS GROUP
+
+Northwind Analytics Group (NAG) is a mid-sized data infrastructure company founded in 2014 in Portland, Oregon. The company was originally named "Riverbend Data Systems" until it was rebranded in 2018 following its merger with a smaller competitor, Sable Metrics. NAG now operates three business divisions: Northwind Cloud, Northwind Insights, and Northwind Edge.
+
+DIVISION: NORTHWIND CLOUD
+
+Northwind Cloud is the company's largest division by revenue, generating $184 million in the 2023 fiscal year. It provides managed database hosting for enterprise clients. The division is led by Senior Vice President Elena Marsh, who joined the company in 2016 after previously working at a competitor named DataForge. Northwind Cloud employs 412 people, the majority of whom are based in the company's Austin, Texas office, which opened in 2019.
+
+DIVISION: NORTHWIND INSIGHTS
+
+Northwind Insights builds business intelligence dashboards and analytics tools for retail and logistics clients. In fiscal year 2023, this division generated $97 million in revenue, an increase of 22% over the previous year. Northwind Insights is led by Vice President Tomas Reyes, who has been with the company since its founding in 2014. The division's flagship product, "ClearView," was launched in 2020 and now has over 1,300 enterprise customers.
+
+DIVISION: NORTHWIND EDGE
+
+Northwind Edge is the newest division, launched in 2021 to focus on edge computing and IoT data processing. It is the smallest division, with $31 million in revenue for fiscal year 2023. It is led by Vice President Priya Chandrasekaran, who joined NAG in 2021 directly from a robotics startup called Fenwick Automation. Notably, Northwind Edge is the only division that operates at a net loss, having spent $38 million against its $31 million in revenue in 2023.
+
+LEADERSHIP AND GOVERNANCE
+
+The CEO of Northwind Analytics Group is Marcus Whitfield, who co-founded the company in 2014 alongside Chief Technology Officer Diane Okafor. Whitfield previously served as an engineering director at DataForge before starting Northwind. The company's Chief Financial Officer, Robert Lin, joined in 2017, one year after Elena Marsh joined Northwind Cloud.
+
+The company's board of directors includes five members: Marcus Whitfield, Diane Okafor, an independent director named Grace Halloway (a former partner at Bridgeport Ventures), an independent director named Samuel Ito (a professor of computer science at a state university), and one representative from NAG's largest institutional shareholder, Cascade Capital Partners, which holds 19% of company shares.
+
+FINANCIAL SUMMARY
+
+Total company revenue for fiscal year 2023 was the sum of all three divisions' revenues. Total operating costs across all divisions in fiscal year 2023 were $276 million. The company's fiscal year runs from April 1 to March 31, unlike the calendar-year reporting used by most of its publicly traded competitors.
+
+In fiscal year 2022, Northwind Cloud generated $171 million in revenue, Northwind Insights generated $79.5 million, and Northwind Edge (in its first partial year of operation) generated $9 million.
+
+ACQUISITION HISTORY
+
+In 2018, Northwind (then still called Riverbend Data Systems) acquired Sable Metrics for $22 million, primarily to gain Sable's data visualization technology, which was later folded into what became the Northwind Insights division. In 2022, the company acquired a small startup called PulseGrid for $8 million to strengthen Northwind Edge's IoT sensor integration capabilities. Unlike the Sable Metrics acquisition, the PulseGrid acquisition was structured entirely as a stock swap rather than a cash payment.
+
+OFFICE LOCATIONS
+
+Northwind Analytics Group operates out of four offices. The headquarters is in Portland, Oregon, where the company was founded and where Northwind Insights and Northwind Edge are primarily based. The Austin, Texas office, opened in 2019, is dedicated to Northwind Cloud. A smaller office in Denver, Colorado, opened in 2022, houses a portion of the Northwind Edge engineering team. The company also maintains a sales office in Chicago, Illinois, opened in 2020, which supports all three divisions.
+
+EMPLOYEE COUNT
+
+As of the end of fiscal year 2023, Northwind Analytics Group employed 940 people company-wide. Northwind Cloud accounts for 412 of these employees. Northwind Insights employs 356 people. The remaining employees work in Northwind Edge or in corporate functions such as finance, HR, and executive leadership, which together account for 58 people not assigned to any single division.
+
+CUSTOMER BASE
+
+Northwind Cloud serves 64 enterprise clients, with an average contract value of $2.9 million per year. Northwind Insights, through its ClearView product, serves over 1,300 customers, though the vast majority are smaller accounts; ClearView's average contract value is approximately $65,000 per year. Northwind Edge currently has 19 pilot customers and has not yet transitioned any of them to standard commercial contracts.
+
+RECENT DEVELOPMENTS
+
+In January 2024, Northwind Analytics Group announced plans to open a fifth office in Toronto, Canada, intended to support expansion of Northwind Edge into the Canadian market. The company also announced that Priya Chandrasekaran would be promoted to Executive Vice President, reporting directly to CEO Marcus Whitfield, effective March 2024. This made her the third division leader, after Elena Marsh, to report directly to the CEO rather than through an intermediate layer of management; Tomas Reyes reports to CTO Diane Okafor rather than directly to Whitfield.
+
+INDUSTRY CONTEXT
+
+Northwind's primary competitor, DataForge, is a publicly traded company roughly twice Northwind's size by revenue. Two of Northwind's current executives, CEO Marcus Whitfield and Northwind Cloud SVP Elena Marsh, previously worked at DataForge before joining Northwind. A third, unrelated company also named "DataForge Analytics" operates in Australia and has no connection to the U.S.-based DataForge that Whitfield and Marsh worked for; this naming coincidence has occasionally caused confusion in industry press coverage.

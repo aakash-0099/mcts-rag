@@ -1,0 +1,319 @@
+{
+  "batch": 2,
+  "start_question": 11,
+  "end_question": 20,
+  "num_questions": 10,
+  "num_simulations": 10,
+  "hits": 10,
+  "retrieval_coverage": 1.0,
+  "details": [
+    {
+      "id": "WebQTrn-60_68f0d0ad309d64a4af858a5ef4fb5713",
+      "question": "In which countries do the people speak Portuguese, where the child labor percentage was once 1.8?",
+      "hit": true,
+      "retrieved_question_ids": [
+        "WebQTrn-60_68f0d0ad309d64a4af858a5ef4fb5713",
+        "WebQTest-100_524908899a8aa334a18a0ac00f8f2fe6",
+        "WebQTrn-60_39ba4faa87698cb0767d1a5ee7ce1827"
+      ],
+      "retrieved_doc_ids": [
+        "WebQTrn-60_68f0d0ad309d64a4af858a5ef4fb5713_27_50",
+        "WebQTrn-60_68f0d0ad309d64a4af858a5ef4fb5713_1_45",
+        "WebQTrn-60_68f0d0ad309d64a4af858a5ef4fb5713_27_68",
+        "WebQTest-100_524908899a8aa334a18a0ac00f8f2fe6_45_90",
+        "WebQTrn-60_39ba4faa87698cb0767d1a5ee7ce1827_100_15",
+        "WebQTrn-60_39ba4faa87698cb0767d1a5ee7ce1827_100_27",
+        "WebQTrn-60_39ba4faa87698cb0767d1a5ee7ce1827_100_66",
+        "WebQTrn-60_39ba4faa87698cb0767d1a5ee7ce1827_101_11",
+        "WebQTrn-60_39ba4faa87698cb0767d1a5ee7ce1827_101_24",
+        "WebQTrn-60_39ba4faa87698cb0767d1a5ee7ce1827_101_35"
+      ],
+      "retrieval_actions": [
+        "A4",
+        "A4",
+        "A5",
+        "A5"
+      ],
+      "final_answer": "Portuguese is spoken in Portugal and several countries in Africa and Asia that were formerly part of Portugal's colonies. The country with a reported child labor percentage of 1.8% is Mozambique.",
+      "candidate_count": 4
+    },
+    {
+      "id": "WebQTest-100_bf66fd89b6e9fc5fcb96c8b3f7a0e616",
+      "question": "The people from the country that contains Nord-Ouest Department speak what languages today?",
+      "hit": true,
+      "retrieved_question_ids": [
+        "WebQTest-100_524908899a8aa334a18a0ac00f8f2fe6",
+        "WebQTest-100_bf66fd89b6e9fc5fcb96c8b3f7a0e616",
+        "WebQTrn-60_39ba4faa87698cb0767d1a5ee7ce1827",
+        "WebQTrn-60_0b79f757e511e73c7aca0bb6f6057f2d",
+        "WebQTrn-60_68f0d0ad309d64a4af858a5ef4fb5713",
+        "WebQTrn-3136_a2debf685e0c50491e35a9cf7a1e9ade"
+      ],
+      "retrieved_doc_ids": [
+        "WebQTest-100_524908899a8aa334a18a0ac00f8f2fe6_45_0",
+        "WebQTest-100_bf66fd89b6e9fc5fcb96c8b3f7a0e616_62_0",
+        "WebQTest-100_bf66fd89b6e9fc5fcb96c8b3f7a0e616_64_23",
+        "WebQTrn-60_39ba4faa87698cb0767d1a5ee7ce1827_100_29",
+        "WebQTrn-60_0b79f757e511e73c7aca0bb6f6057f2d_291_31",
+        "WebQTrn-60_68f0d0ad309d64a4af858a5ef4fb5713_27_94",
+        "WebQTrn-3136_a2debf685e0c50491e35a9cf7a1e9ade_43_44",
+        "WebQTest-100_524908899a8aa334a18a0ac00f8f2fe6_45_71",
+        "WebQTest-100_524908899a8aa334a18a0ac00f8f2fe6_45_92",
+        "WebQTest-100_524908899a8aa334a18a0ac00f8f2fe6_46_12"
+      ],
+      "retrieval_actions": [
+        "A4",
+        "A4",
+        "A5",
+        "A5"
+      ],
+      "final_answer": "I don't have information on a \"Nord-Ouest Department\" in any country. Could you please provide more context or clarify which country's department this refers to? I'll do my best to answer your question based on the provided context.",
+      "candidate_count": 4
+    },
+    {
+      "id": "WebQTrn-962_032f61bfcfed69da8b215bb8f058c24e",
+      "question": "What actor played the a kid in the movie with a character named Jenny's Father?",
+      "hit": true,
+      "retrieved_question_ids": [
+        "WebQTest-538_92e606ef9c0429ad6820797ad2950730",
+        "WebQTrn-557_960c16ffdb29e173df0577fc76c7455d",
+        "WebQTrn-962_032f61bfcfed69da8b215bb8f058c24e",
+        "WebQTrn-124_f3990dc9aa470fa81ec4cf2912a9924f"
+      ],
+      "retrieved_doc_ids": [
+        "WebQTest-538_92e606ef9c0429ad6820797ad2950730_165_41",
+        "WebQTest-538_92e606ef9c0429ad6820797ad2950730_332_71",
+        "WebQTrn-557_960c16ffdb29e173df0577fc76c7455d_18_69",
+        "WebQTrn-962_032f61bfcfed69da8b215bb8f058c24e_85_18",
+        "WebQTrn-962_032f61bfcfed69da8b215bb8f058c24e_86_13",
+        "WebQTest-538_92e606ef9c0429ad6820797ad2950730_165_79",
+        "WebQTrn-124_f3990dc9aa470fa81ec4cf2912a9924f_242_81",
+        "WebQTest-538_92e606ef9c0429ad6820797ad2950730_332_55",
+        "WebQTrn-557_960c16ffdb29e173df0577fc76c7455d_18_29",
+        "WebQTrn-962_032f61bfcfed69da8b215bb8f058c24e_85_73"
+      ],
+      "retrieval_actions": [
+        "A4",
+        "A4",
+        "A5",
+        "A5"
+      ],
+      "final_answer": "I don't have enough information to provide an accurate answer. Can you please provide more context or clarify which movie you are referring to?",
+      "candidate_count": 4
+    },
+    {
+      "id": "WebQTrn-849_586aae7703d62aa44eb79759e1563309",
+      "question": "What European Union country sharing borders with Germany contains the Lejre Municipality?",
+      "hit": true,
+      "retrieved_question_ids": [
+        "WebQTrn-849_586aae7703d62aa44eb79759e1563309",
+        "WebQTrn-241_dfb6c97ac9bf2f0ac07f27dd80f9edc2",
+        "WebQTrn-849_1eb0f1ddd5074471fbe3a7f6b575f202"
+      ],
+      "retrieved_doc_ids": [
+        "WebQTrn-849_586aae7703d62aa44eb79759e1563309_78_8",
+        "WebQTrn-849_586aae7703d62aa44eb79759e1563309_77_23",
+        "WebQTrn-849_586aae7703d62aa44eb79759e1563309_77_80",
+        "WebQTrn-849_586aae7703d62aa44eb79759e1563309_78_19",
+        "WebQTrn-849_586aae7703d62aa44eb79759e1563309_78_46",
+        "WebQTrn-241_dfb6c97ac9bf2f0ac07f27dd80f9edc2_98_55",
+        "WebQTrn-849_1eb0f1ddd5074471fbe3a7f6b575f202_423_80",
+        "WebQTrn-849_1eb0f1ddd5074471fbe3a7f6b575f202_423_81",
+        "WebQTrn-849_1eb0f1ddd5074471fbe3a7f6b575f202_423_94",
+        "WebQTrn-849_1eb0f1ddd5074471fbe3a7f6b575f202_9_7"
+      ],
+      "retrieval_actions": [
+        "A4",
+        "A4",
+        "A5",
+        "A5"
+      ],
+      "final_answer": "Denmark.",
+      "candidate_count": 4
+    },
+    {
+      "id": "WebQTrn-710_c264a6d11d7956741926d417b94327e2",
+      "question": "When was the last time a team led by Larr Baer win the World Series?",
+      "hit": true,
+      "retrieved_question_ids": [
+        "WebQTrn-1841_b8df00139e3fa59b8633ef551ed8ca9f",
+        "WebQTrn-810_a188aff4a054e1ec66fafba1b8021f67",
+        "WebQTrn-710_c264a6d11d7956741926d417b94327e2",
+        "WebQTrn-750_bb35e9b8023fbf9c05df55b4245a4775"
+      ],
+      "retrieved_doc_ids": [
+        "WebQTrn-1841_b8df00139e3fa59b8633ef551ed8ca9f_177_84",
+        "WebQTrn-810_a188aff4a054e1ec66fafba1b8021f67_202_31",
+        "WebQTrn-810_a188aff4a054e1ec66fafba1b8021f67_202_42",
+        "WebQTrn-710_c264a6d11d7956741926d417b94327e2_212_29",
+        "WebQTrn-710_c264a6d11d7956741926d417b94327e2_213_29",
+        "WebQTrn-750_bb35e9b8023fbf9c05df55b4245a4775_29_26",
+        "WebQTrn-750_bb35e9b8023fbf9c05df55b4245a4775_29_56",
+        "WebQTrn-750_bb35e9b8023fbf9c05df55b4245a4775_29_74",
+        "WebQTrn-750_bb35e9b8023fbf9c05df55b4245a4775_30_40",
+        "WebQTrn-750_bb35e9b8023fbf9c05df55b4245a4775_30_85"
+      ],
+      "retrieval_actions": [
+        "A4",
+        "A4",
+        "A5",
+        "A5"
+      ],
+      "final_answer": "I couldn't find any information on a person named Larr Baer winning a World Series. However, I found that Larry Bowa and later Larr McNeil were managers of teams that won the World Series, but not Larr Baer.",
+      "candidate_count": 4
+    },
+    {
+      "id": "WebQTrn-2209_c1374f388d9cc7a78365860c91218362",
+      "question": "What year did the basketball team coached by Brad Stevens win the championship?",
+      "hit": true,
+      "retrieved_question_ids": [
+        "WebQTrn-2209_c1374f388d9cc7a78365860c91218362",
+        "WebQTrn-2722_8babdaa9ecd05a72e3227b43b1f98771",
+        "WebQTest-998_f693ae2cb9aa6b8ffdf0f103a6777b62",
+        "WebQTest-1348_3bddf705b2a346fbdc2f00e9a02b84f3"
+      ],
+      "retrieved_doc_ids": [
+        "WebQTrn-2209_c1374f388d9cc7a78365860c91218362_204_17",
+        "WebQTrn-2209_c1374f388d9cc7a78365860c91218362_204_38",
+        "WebQTrn-2209_c1374f388d9cc7a78365860c91218362_204_45",
+        "WebQTrn-2209_c1374f388d9cc7a78365860c91218362_204_68",
+        "WebQTrn-2209_c1374f388d9cc7a78365860c91218362_204_80",
+        "WebQTrn-2209_c1374f388d9cc7a78365860c91218362_204_97",
+        "WebQTrn-2209_c1374f388d9cc7a78365860c91218362_357_87",
+        "WebQTrn-2722_8babdaa9ecd05a72e3227b43b1f98771_10_20",
+        "WebQTest-998_f693ae2cb9aa6b8ffdf0f103a6777b62_144_85",
+        "WebQTest-1348_3bddf705b2a346fbdc2f00e9a02b84f3_186_34"
+      ],
+      "retrieval_actions": [
+        "A4",
+        "A4",
+        "A5",
+        "A5"
+      ],
+      "final_answer": "I don't have enough information to answer that question accurately. Can you provide more context or specify which team is being referred to?",
+      "candidate_count": 4
+    },
+    {
+      "id": "WebQTest-1251_cbf2f20f6caf754bc49d672ca7b150b7",
+      "question": "What country speaks Germanic languages and uses the East German mark as currency?",
+      "hit": true,
+      "retrieved_question_ids": [
+        "WebQTest-1251_cbf2f20f6caf754bc49d672ca7b150b7",
+        "WebQTrn-849_1eb0f1ddd5074471fbe3a7f6b575f202",
+        "WebQTest-100_bf66fd89b6e9fc5fcb96c8b3f7a0e616",
+        "WebQTrn-60_39ba4faa87698cb0767d1a5ee7ce1827"
+      ],
+      "retrieved_doc_ids": [
+        "WebQTest-1251_cbf2f20f6caf754bc49d672ca7b150b7_108_91",
+        "WebQTest-1251_cbf2f20f6caf754bc49d672ca7b150b7_109_94",
+        "WebQTest-1251_cbf2f20f6caf754bc49d672ca7b150b7_110_2",
+        "WebQTest-1251_cbf2f20f6caf754bc49d672ca7b150b7_110_22",
+        "WebQTest-1251_cbf2f20f6caf754bc49d672ca7b150b7_110_76",
+        "WebQTest-1251_cbf2f20f6caf754bc49d672ca7b150b7_299_60",
+        "WebQTrn-849_1eb0f1ddd5074471fbe3a7f6b575f202_13_54",
+        "WebQTest-100_bf66fd89b6e9fc5fcb96c8b3f7a0e616_64_3",
+        "WebQTrn-60_39ba4faa87698cb0767d1a5ee7ce1827_101_12",
+        "WebQTest-1251_cbf2f20f6caf754bc49d672ca7b150b7_108_6"
+      ],
+      "retrieval_actions": [
+        "A4",
+        "A4",
+        "A5",
+        "A5"
+      ],
+      "final_answer": "East Germany (now part of Germany) used the East German mark as its currency.",
+      "candidate_count": 5
+    },
+    {
+      "id": "WebQTrn-3100_143c89d70679c3e5257c93d8e2bc4c67",
+      "question": "Which globe region with the UTCâ05:00 time zone does the Dominican Republic call home?",
+      "hit": true,
+      "retrieved_question_ids": [
+        "WebQTrn-2664_471b83eade9707a4dba68e201bf29d73",
+        "WebQTrn-1864_9dc4e22121d3a46d45b8f9bd9e8c7013",
+        "WebQTrn-3100_143c89d70679c3e5257c93d8e2bc4c67"
+      ],
+      "retrieved_doc_ids": [
+        "WebQTrn-2664_471b83eade9707a4dba68e201bf29d73_107_12",
+        "WebQTrn-1864_9dc4e22121d3a46d45b8f9bd9e8c7013_229_49",
+        "WebQTrn-3100_143c89d70679c3e5257c93d8e2bc4c67_236_16",
+        "WebQTrn-3100_143c89d70679c3e5257c93d8e2bc4c67_236_94",
+        "WebQTrn-3100_143c89d70679c3e5257c93d8e2bc4c67_342_28",
+        "WebQTrn-3100_143c89d70679c3e5257c93d8e2bc4c67_343_5",
+        "WebQTrn-3100_143c89d70679c3e5257c93d8e2bc4c67_343_80",
+        "WebQTrn-3100_143c89d70679c3e5257c93d8e2bc4c67_343_87",
+        "WebQTrn-1864_9dc4e22121d3a46d45b8f9bd9e8c7013_368_52",
+        "WebQTrn-1864_9dc4e22121d3a46d45b8f9bd9e8c7013_368_76"
+      ],
+      "retrieval_actions": [
+        "A4",
+        "A4",
+        "A5",
+        "A5"
+      ],
+      "final_answer": "The Caribbean.",
+      "candidate_count": 4
+    },
+    {
+      "id": "WebQTrn-662_7a992044f94b39edfc37ac5dcfcb3c26",
+      "question": "What was the name of the team that won the 2008 FIFA Club World Cup Final championship?",
+      "hit": true,
+      "retrieved_question_ids": [
+        "WebQTrn-662_7a992044f94b39edfc37ac5dcfcb3c26"
+      ],
+      "retrieved_doc_ids": [
+        "WebQTrn-662_7a992044f94b39edfc37ac5dcfcb3c26_198_1",
+        "WebQTrn-662_7a992044f94b39edfc37ac5dcfcb3c26_198_22",
+        "WebQTrn-662_7a992044f94b39edfc37ac5dcfcb3c26_198_24",
+        "WebQTrn-662_7a992044f94b39edfc37ac5dcfcb3c26_198_27",
+        "WebQTrn-662_7a992044f94b39edfc37ac5dcfcb3c26_198_39",
+        "WebQTrn-662_7a992044f94b39edfc37ac5dcfcb3c26_198_79",
+        "WebQTrn-662_7a992044f94b39edfc37ac5dcfcb3c26_367_24",
+        "WebQTrn-662_7a992044f94b39edfc37ac5dcfcb3c26_367_90",
+        "WebQTrn-662_7a992044f94b39edfc37ac5dcfcb3c26_409_1",
+        "WebQTrn-662_7a992044f94b39edfc37ac5dcfcb3c26_409_8"
+      ],
+      "retrieval_actions": [
+        "A4",
+        "A4",
+        "A5",
+        "A5"
+      ],
+      "final_answer": "Manchester United.",
+      "candidate_count": 5
+    },
+    {
+      "id": "WebQTest-743_0a8cdba29cf260283b7c890b3609c0b9",
+      "question": "Which of JFK's brother held the latest governmental position?",
+      "hit": true,
+      "retrieved_question_ids": [
+        "WebQTest-743_0a8cdba29cf260283b7c890b3609c0b9",
+        "WebQTrn-849_1eb0f1ddd5074471fbe3a7f6b575f202",
+        "WebQTrn-2722_8babdaa9ecd05a72e3227b43b1f98771",
+        "WebQTest-832_c334509bb5e02cacae1ba2e80c176499",
+        "WebQTest-61_8f0d44a78a2e50f47729db23c5850da0",
+        "WebQTrn-810_a188aff4a054e1ec66fafba1b8021f67"
+      ],
+      "retrieved_doc_ids": [
+        "WebQTest-743_0a8cdba29cf260283b7c890b3609c0b9_247_42",
+        "WebQTrn-849_1eb0f1ddd5074471fbe3a7f6b575f202_8_31",
+        "WebQTrn-849_1eb0f1ddd5074471fbe3a7f6b575f202_8_61",
+        "WebQTrn-2722_8babdaa9ecd05a72e3227b43b1f98771_11_63",
+        "WebQTrn-2722_8babdaa9ecd05a72e3227b43b1f98771_11_70",
+        "WebQTrn-849_1eb0f1ddd5074471fbe3a7f6b575f202_13_71",
+        "WebQTest-832_c334509bb5e02cacae1ba2e80c176499_33_12",
+        "WebQTest-61_8f0d44a78a2e50f47729db23c5850da0_36_17",
+        "WebQTest-61_8f0d44a78a2e50f47729db23c5850da0_37_18",
+        "WebQTrn-810_a188aff4a054e1ec66fafba1b8021f67_42_52"
+      ],
+      "retrieval_actions": [
+        "A4",
+        "A4",
+        "A5",
+        "A5"
+      ],
+      "final_answer": "Robert F. Kennedy, JFK's brother, was the last to hold a governmental position as U.S. Attorney General from 1961-1964.",
+      "candidate_count": 4
+    }
+  ]
+}

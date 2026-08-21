@@ -1,0 +1,1320 @@
+{
+  "total_examples": 100,
+  "pages_available": 78,
+  "fully_matched_examples": 13,
+  "missing_pages": 0,
+  "examples_with_missing_evidence": 87,
+  "results": [
+    {
+      "id": "01EICaMMy6uOPHdoEGAf",
+      "wikipedia_page": "Gandhi (film)",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Production",
+          "text": "Then prime minister Indira Gandhi declared a state of emergency in India and shooting would be impossible."
+        }
+      ]
+    },
+    {
+      "id": "01YZxWWa4wfUL4peXdco",
+      "wikipedia_page": "Willie Stargell",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Early life",
+          "text": "Stargell was born in Earlsboro, Oklahoma, but later moved to Florida with an aunt after his parents divorced."
+        }
+      ]
+    },
+    {
+      "id": "03qZ56zbPYFKfp5tH7jf",
+      "wikipedia_page": "Paraguay",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 1,
+      "missing_evidence": [
+        {
+          "section_header": "History | Stroessner's overthrow, post-1989",
+          "text": "On 3 February 1989, Stroessner was overthrown in a military coup headed by General Andrés Rodríguez."
+        }
+      ]
+    },
+    {
+      "id": "0641FTGeQc82GZ4g47wt",
+      "wikipedia_page": "Titration",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 1,
+      "missing_evidence": [
+        {
+          "section_header": "Particular uses | Redox titrations",
+          "text": "Benedict's reagent: Excess glucose in urine may indicate diabetes in a patient."
+        }
+      ]
+    },
+    {
+      "id": "07gYvQOnIyaSf48bGaJE",
+      "wikipedia_page": "Song of the Lark",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "The Song of the Lark is the third novel by American author Willa Cather, written in 1915."
+        },
+        {
+          "section_header": "Plot introduction",
+          "text": "Set in the 1890s in Moonstone, a fictional town in Colorado, The Song of the Lark is the self-portrait of an artist in the making."
+        }
+      ]
+    },
+    {
+      "id": "0CUwiZcPZQJ1sZHfX6Qc",
+      "wikipedia_page": "No Country for Old Men",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "No Country for Old Men is a 2005 novel by American author Cormac McCarthy, who had originally written the story as a screenplay."
+        }
+      ]
+    },
+    {
+      "id": "0CxZDmzWV58b4g7YABg0",
+      "wikipedia_page": "Vic Willis",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Later life",
+          "text": "He was the last pitcher to throw a no-hitter in the 19th century."
+        }
+      ]
+    },
+    {
+      "id": "0FkXiAM2YIXdRMY95yZs",
+      "wikipedia_page": "It's a Mad, Mad, Mad, Mad World",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "It's a Mad, Mad, Mad, Mad World is a 1963 American comedy film produced and directed by Stanley Kramer with a screenplay by William Rose and Tania Rose from a story by Tania Rose."
+        }
+      ]
+    },
+    {
+      "id": "0Kuq93pfRhEDmLqXm7pe",
+      "wikipedia_page": "Raging Bull",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "Raging Bull is a 1980 American biographical sports  drama film directed by Martin Scorsese, produced by Robert Chartoff and Irwin Winkler and adapted by Paul Schrader and Mardik Martin from Jake LaMotta's 1970 memoir Raging Bull: My Story."
+        }
+      ]
+    },
+    {
+      "id": "0OV6wPxGOyJkM50ZV7NS",
+      "wikipedia_page": "Twitter",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "History | 2007–2010",
+          "text": "The company experienced rapid initial growth."
+        }
+      ]
+    },
+    {
+      "id": "0R6cUyi3poj2pceeMMjM",
+      "wikipedia_page": "Willard Brown",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 1,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "Willard Jessie Brown (June 26, 1915 – August 4, 1996), nicknamed \"Home Run\" Brown, was an American baseball player who played outfielder in the Negro leagues and in Major League Baseball (MLB)."
+        }
+      ]
+    },
+    {
+      "id": "0TSMsiQi2AjIjuB5YHry",
+      "wikipedia_page": "Vic Willis",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Later life",
+          "text": "After retirement, Willis purchased and operated the Washington House, a hotel in his hometown of Newark, Delaware."
+        }
+      ]
+    },
+    {
+      "id": "0UeY6K5ax17pY8ORFdca",
+      "wikipedia_page": "Rabbit Maranville",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 1,
+      "missing_evidence": []
+    },
+    {
+      "id": "0UeyiPr3kxNgFKK9nhSS",
+      "wikipedia_page": "The Exorcist",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Novels | The Exorcist (1971)",
+          "text": "The novel was inspired by a 1949 case of demonic possession and exorcism that Blatty heard about while he was a student in the class of 1950 at Georgetown University."
+        }
+      ]
+    },
+    {
+      "id": "0XkdtBNIBcY8wUNvPBrt",
+      "wikipedia_page": "The Life of Emile Zola",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "It is notable as the second biographical film to win the Academy Award for Best Picture."
+        }
+      ]
+    },
+    {
+      "id": "0YzkctHSbxUswi8FDEub",
+      "wikipedia_page": "Richard I of England",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "King and crusader | Crusade plans",
+          "text": "He spent most of his father's treasury (filled with money raised by the Saladin tithe), raised taxes, and even agreed to free King William I of Scotland from his oath of subservience to Richard in exchange for 10,000 marks (£6,500)."
+        },
+        {
+          "section_header": "King and crusader | Crusade plans",
+          "text": "When Richard was raising funds for his crusade, he was said to declare, \"I would have sold London if I could find a buyer\"."
+        }
+      ]
+    },
+    {
+      "id": "0ZSZa4eoOb3sWNeOlaqe",
+      "wikipedia_page": "Willem Dafoe",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Biography | 1955–1978: Early life and acting in theater",
+          "text": "One of eight children of Muriel Isabel (née Sprissler) and Dr. William Alfred Dafoe (1917–2014) , he recalled in 2009: \"My five sisters raised me because my father was a surgeon, my mother was a nurse and they worked together, so I didn't see either of them much."
+        }
+      ]
+    },
+    {
+      "id": "0e9RAuyl5bHwp5XyWe6i",
+      "wikipedia_page": "Reflection (physics)",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Reflection of light",
+          "text": "Reflection also occurs at the surface of transparent media, such as water or glass."
+        }
+      ]
+    },
+    {
+      "id": "0f3PgEuwPkgF73UGyO4C",
+      "wikipedia_page": "Inner core",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "The temperature at the inner core's surface is estimated to be approximately 5700 K (5430 °C or 9806 °F), which is about the temperature at the surface of the Sun."
+        }
+      ]
+    },
+    {
+      "id": "0fkbbjJJzi6ExHmXqMn8",
+      "wikipedia_page": "Scarlett Johansson",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Early life",
+          "text": "As a child, Johansson practiced acting by staring in the mirror until she made herself cry, wanting to be Judy Garland in Meet Me in St. Louis."
+        },
+        {
+          "section_header": "Early life",
+          "text": "At age nine, Johansson made her film debut as John Ritter's daughter in the fantasy comedy North (1994)."
+        }
+      ]
+    },
+    {
+      "id": "0gS23EHr43wcAdofLaaI",
+      "wikipedia_page": "Red Hot Chili Peppers",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "History | 1983–1984: Early history",
+          "text": "Red Hot Chili Peppers were formed in Los Angeles by singer Anthony Kiedis, guitarist Hillel Slovak, bassist Flea, and drummer Jack Irons, classmates at Fairfax High School."
+        }
+      ]
+    },
+    {
+      "id": "0i7ljtfl5jWnzR6WmHgr",
+      "wikipedia_page": "Mary, Queen of Scots",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "Four years later, she married her half-cousin, Henry Stuart, Lord Darnley, and in June 1566 they had a son, James."
+        },
+        {
+          "section_header": "Summary",
+          "text": "In February 1567, Darnley's residence was destroyed by an explosion, and he was found murdered in the garden."
+        }
+      ]
+    },
+    {
+      "id": "0kaTupAMJVm2QtfOJT9f",
+      "wikipedia_page": "Leviticus",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "The Book of Leviticus () is the third book of the Torah and of the Old Testament;  scholars generally agree that it developed over a long period of time, reaching its present form during the Persian Period between 538–332 BC."
+        }
+      ]
+    },
+    {
+      "id": "0oSjTZg2cCoT0PqkhbG0",
+      "wikipedia_page": "As I Lay Dying",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "As I Lay Dying is a 1930 Southern Gothic novel by American author William Faulkner."
+        }
+      ]
+    },
+    {
+      "id": "0orLJCZa6NjLD6d1zU0D",
+      "wikipedia_page": "Vietnam War",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Johnson's escalation, 1963–1969",
+          "text": "Vice President Lyndon B. Johnson had not been heavily involved with policy toward Vietnam; however, upon becoming president, Johnson immediately focused on the war."
+        }
+      ]
+    },
+    {
+      "id": "0q3ajEcYUe8CQOH6Zcrq",
+      "wikipedia_page": "Rosalind Russell",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Death",
+          "text": "The foreword (written by her husband) states that Russell had a mental breakdown in 1943."
+        },
+        {
+          "section_header": "Death",
+          "text": "She made no films in 1944. Details are scant, but the book indicates that health problems and the deaths of a sister and a brother were major factors leading to her breakdown."
+        }
+      ]
+    },
+    {
+      "id": "0qYKEZAkbfZcwNSLet7R",
+      "wikipedia_page": "Sister Carrie",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Plot summary",
+          "text": "Late 1889. Dissatisfied with life in her rural Wisconsin home, 18-year-old Caroline \"Sister Carrie"
+        }
+      ]
+    },
+    {
+      "id": "0tp9eOO7bdToG80wMSPX",
+      "wikipedia_page": "Hamlet",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "In the 400 years since its inception, the role has been performed by numerous highly acclaimed actors in each successive century."
+        },
+        {
+          "section_header": "Summary",
+          "text": "It is Shakespeare's longest play with 30,557 words."
+        }
+      ]
+    },
+    {
+      "id": "10sNa2dLNP3DV7XIHP75",
+      "wikipedia_page": "The Lady of Shalott",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "Based on the medieval La Damigella di Scalot, it tells the story of Elaine of Astolat, a young noblewoman imprisoned in a tower on an island near Camelot."
+        }
+      ]
+    },
+    {
+      "id": "1DLDskM8wEAZLduEOq2G",
+      "wikipedia_page": "Elon Musk",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "He moved to California in 1995 to begin a Ph.D. in applied physics and material sciences at Stanford University, but decided to pursue a business career instead of enrolling."
+        }
+      ]
+    },
+    {
+      "id": "1Ij9d0kD2hk5CLDLIM73",
+      "wikipedia_page": "In Old Chicago",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "In Old Chicago is a 1938 American drama disaster film directed by Henry King."
+        }
+      ]
+    },
+    {
+      "id": "1Kre4AiPxf6EjPbCS3ax",
+      "wikipedia_page": "Hamlet",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "The Tragedy of Hamlet, Prince of Denmark, often shortened to Hamlet (), is a tragedy written by William Shakespeare sometime between 1599 and 1601."
+        }
+      ]
+    },
+    {
+      "id": "1OGivoT8stQKtSsZjRVo",
+      "wikipedia_page": "The Little Prince",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Literary translations and printed editions",
+          "text": "As of 2017, it has been translated into more than 300 languages and dialects, including Sardinian, the constructed international languages of Esperanto and Klingon, and the Congolese language Alur, as well as being printed in Braille for blind readers."
+        }
+      ]
+    },
+    {
+      "id": "1QMPRr6sCkLRRahFGvG5",
+      "wikipedia_page": "Plato",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Biography | Early life | Education",
+          "text": "Plato was a wrestler, and Dicaearchus went so far as to say that Plato wrestled at the Isthmian games."
+        }
+      ]
+    },
+    {
+      "id": "1SM8K2mG4cvr0etW1C8h",
+      "wikipedia_page": "As I Lay Dying",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 1,
+      "missing_evidence": []
+    },
+    {
+      "id": "1SzkuoGnYDErmycRcZ4N",
+      "wikipedia_page": "Honus Wagner",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "Johannes Peter \"Honus\" Wagner (; February 24, 1874 – December 6, 1955), sometimes referred to as \"Hans\" Wagner, was an American baseball shortstop who played 21 seasons in Major League Baseball from 1897 to 1917, almost entirely for the Pittsburgh Pirates."
+        }
+      ]
+    },
+    {
+      "id": "1V8gY8EZBnRxuMwdWEV9",
+      "wikipedia_page": "Richard I of England",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "He was the third of five sons of King Henry II of England and Duchess Eleanor of Aquitaine and seemed unlikely to become king, but all of his brothers except  the youngest, John, predeceased their father."
+        }
+      ]
+    },
+    {
+      "id": "1ayqsEv25fMR2RDCqShd",
+      "wikipedia_page": "George III of the United Kingdom",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Marriage",
+          "text": "George remarkably never took a mistress (in contrast with his grandfather and his sons), and the couple enjoyed a happy marriage until his mental illness struck."
+        }
+      ]
+    },
+    {
+      "id": "1dgP1TSNX9AHy36LYnUT",
+      "wikipedia_page": "Chromatography",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "The two are not mutually exclusive."
+        },
+        {
+          "section_header": "Summary",
+          "text": "Chromatography may be preparative or analytical."
+        }
+      ]
+    },
+    {
+      "id": "1q8fiZbAUWP8mg21X5Sd",
+      "wikipedia_page": "Ben Kingsley",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Personal life",
+          "text": "Kingsley stated in 1994, \"I'm not Jewish, and though there might be some Russian-Jewish heritage way back on my mother's side, the thread is so fine there's no real evidence.\" Kingsley has been married four times and has four children: Thomas Bhanji and artist Jasmin Bhanji, with actress Angela Morant, and Edmund Kingsley and Ferdinand Kingsley, both of whom became actors, with theatrical director Alison Sutcliffe."
+        }
+      ]
+    },
+    {
+      "id": "1qbSepx93dRHP46lywsb",
+      "wikipedia_page": "Vladimir Guerrero",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Early years and family",
+          "text": "One of nine children, Guerrero is the younger brother of ex-major leaguer Wilton Guerrero, who also played with the Montreal Expos (the two were teammates for several seasons)."
+        }
+      ]
+    },
+    {
+      "id": "1rzn7Sbn57TytFD0Egq4",
+      "wikipedia_page": "Horace Greeley",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "Horace Greeley (February 3, 1811 – November 29, 1872) was an American newspaper editor and publisher who was the founder and editor of the New-York Tribune, among the great newspapers of its time."
+        }
+      ]
+    },
+    {
+      "id": "1sS6dPyXFhiLHO5FK08b",
+      "wikipedia_page": "Animal Farm",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "According to Orwell, the fable reflects events leading up to the Russian Revolution of 1917 and then on into the Stalinist era of the Soviet Union."
+        },
+        {
+          "section_header": "Summary",
+          "text": "Animal Farm is an allegorical novella by George Orwell, first published in England on 17 August 1945."
+        }
+      ]
+    },
+    {
+      "id": "1xKPT5SnweuWhYQIOM7d",
+      "wikipedia_page": "Inception",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "Inception is a 2010 science fiction action film written and directed by Christopher Nolan, who also produced the film with his wife, Emma Thomas."
+        }
+      ]
+    },
+    {
+      "id": "21RKf80uwXB2SI2NTAVB",
+      "wikipedia_page": "Tony Gwynn",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "Anthony Keith Gwynn Sr. (May 9, 1960 – June 16, 2014), nicknamed \"Mr. Padre\", was an American professional baseball right fielder, who played 20 seasons (1982–2001) in Major League Baseball (MLB) for the San Diego Padres."
+        }
+      ]
+    },
+    {
+      "id": "2FqfcCUnWxFUAp0zQaLp",
+      "wikipedia_page": "Hamlet",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Performance history | Film and TV performances",
+          "text": "For example, the 2014 Bollywood film Haider is an adaptation set in Kashmir."
+        }
+      ]
+    },
+    {
+      "id": "2JlFLNiKuXaffwQctQxv",
+      "wikipedia_page": "Colosseum",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "The Colosseum or Coliseum ( KOL-ə-SEE-əm), also known as the Flavian Amphitheatre (Latin: Amphitheatrum Flavium; Italian: Anfiteatro Flavio"
+        }
+      ]
+    },
+    {
+      "id": "2MRY1ZL5QV46lXEPRvXN",
+      "wikipedia_page": "Inception",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Cinematic technique | Ending",
+          "text": "\"Some viewers have noted Cobb wears his wedding ring only during dream scenes."
+        },
+        {
+          "section_header": "Cinematic technique | Ending",
+          "text": "From this, they have concluded that Cobb is not dreaming in the final scene because he is not wearing the ring."
+        }
+      ]
+    },
+    {
+      "id": "2StjPe3GHESUhFVDK9Rt",
+      "wikipedia_page": "Jonas Brothers",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "Formed in 2005, they gained popularity from their appearances on the Disney Channel television network."
+        }
+      ]
+    },
+    {
+      "id": "2WtkodTMayT9hcaAIa3t",
+      "wikipedia_page": "Nicki Minaj",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "Onika Tanya Maraj-Petty (born December 8, 1982), known professionally as Nicki Minaj (), is a Trinidadian-born rapper, singer, songwriter, actress, and model."
+        }
+      ]
+    },
+    {
+      "id": "2XpEdggsEw0JJt1EokAM",
+      "wikipedia_page": "In Old Chicago",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "The film is a fictionalized account about the Great Chicago Fire of 1871 and stars Alice Brady as Mrs. O'Leary, the owner of the cow which started the fire, and Tyrone Power and Don Ameche as her sons."
+        }
+      ]
+    },
+    {
+      "id": "2XrgPVRvXVmXnQxjnjWH",
+      "wikipedia_page": "Brad Pitt",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Early life",
+          "text": "Pitt was born in Shawnee, Oklahoma, to William Alvin Pitt, the proprietor of a trucking company, and Jane Etta (née Hillhouse), a school counselor."
+        }
+      ]
+    },
+    {
+      "id": "2Y1r8VMj0kr9bY1fHI32",
+      "wikipedia_page": "Luis Aparicio",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 1,
+      "missing_evidence": []
+    },
+    {
+      "id": "2Y7Y1brsUoQJMi7fIVo7",
+      "wikipedia_page": "Rube Waddell",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 1,
+      "missing_evidence": []
+    },
+    {
+      "id": "2Z0A5nSdpjqrJXZwFQIW",
+      "wikipedia_page": "Vietnam War",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 1,
+      "missing_evidence": []
+    },
+    {
+      "id": "2ZmpXtzzDU3EJei9BMy8",
+      "wikipedia_page": "Socrates",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "Aristophanes, a playwright, is the main contemporary author to have written plays mentioning Socrates during Socrates' lifetime, though a fragment of Ion of Chios' Travel Journal provides important information about Socrates' youth."
+        }
+      ]
+    },
+    {
+      "id": "2bsEGYC2IBozNnKV8hEG",
+      "wikipedia_page": "George Washington",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "He was a member of the Anglican Church and the Freemasons, and he urged broad religious freedom in his roles as general and president."
+        }
+      ]
+    },
+    {
+      "id": "2btUPwCa756IIy3gviF0",
+      "wikipedia_page": "Meat Loaf",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Personal life | Family",
+          "text": "I really liked it there.\" Meat Loaf coached children's baseball or softball in each of the Connecticut towns where he lived."
+        }
+      ]
+    },
+    {
+      "id": "2us0S8DQBlws0VcIS331",
+      "wikipedia_page": "Chicago",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 1,
+      "missing_evidence": []
+    },
+    {
+      "id": "2ygUiXSa5DdDq3yD9YpW",
+      "wikipedia_page": "Johnny Evers",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "John Joseph Evers (July 21, 1881 – March 28, 1947) was an American professional baseball second baseman and manager."
+        },
+        {
+          "section_header": "Summary",
+          "text": "He played in Major League Baseball (MLB) from 1902 through 1917 for the Chicago Cubs, Boston Braves, and Philadelphia Phillies."
+        }
+      ]
+    },
+    {
+      "id": "31X2aqa5jYPXi9gZsQ6c",
+      "wikipedia_page": "John Quincy Adams",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Legacy | Memorials",
+          "text": "Adams's middle name of Quincy has been used by several locations in the United States, including the town of Quincy, Illinois."
+        },
+        {
+          "section_header": "Early life, education, and early career",
+          "text": "John Quincy Adams was born on July 11, 1767, to John and Abigail Adams (née Smith) in a part of Braintree, Massachusetts that is now Quincy."
+        }
+      ]
+    },
+    {
+      "id": "31smtqpmVRkJKQgc0XU7",
+      "wikipedia_page": "Hal Newhouser",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Playing career | Early career",
+          "text": "As World War II got under way, the Tigers moved up in the standings because several of their top players, including Newhouser, were classified as 4-F (ineligible to be drafted)."
+        }
+      ]
+    },
+    {
+      "id": "32cOSQED2RwnTG9U29kV",
+      "wikipedia_page": "The Man Who Came to Dinner",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Adaptations | Film",
+          "text": "The production was adapted for a 1942 feature film, scripted by Philip G. Epstein and Julius J. Epstein and directed by William Keighley."
+        }
+      ]
+    },
+    {
+      "id": "34I1Yn4yAHylH2B9OhCL",
+      "wikipedia_page": "Council of Constance",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "The Council of Constance was a 15th-century ecumenical council recognized by the Catholic Church, held from 1414 to 1418 in the Bishopric of Constance in present-day Germany."
+        }
+      ]
+    },
+    {
+      "id": "38LwkQ4F4EHo9RO2UbzG",
+      "wikipedia_page": "Harry Potter",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry."
+        }
+      ]
+    },
+    {
+      "id": "3BFQqkvQ3ukjRITo7gC1",
+      "wikipedia_page": "Alexander II of Russia",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "Aleksandr II Nikolayevich, IPA: Aleksandr II Nikolayevich, IPA: [ɐlʲɪˈksandr ftɐˈroj nʲɪkɐˈlajɪvʲɪtɕ]; 29 April 1818 – 13 March 1881) was the Emperor of Russia, King of Poland and Grand Duke of Finland from 2 March 1855 until his assassination on 13 March 1881.Alexander's most significant reform as emperor was emancipation of Russia's serfs in 1861, for which he is known as Alexander the Liberator (Russian: Алекса́ндр"
+        }
+      ]
+    },
+    {
+      "id": "3BPS2c2tejVbSjRDELn3",
+      "wikipedia_page": "The New Colossus",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Interpretation",
+          "text": "The title of the poem and the first two lines reference the Greek Colossus of Rhodes, one of the Seven Wonders of the Ancient World, a famously gigantic sculpture that stood beside or straddled across the entrance to the harbor of the island of Rhodes in the 3rd century BC."
+        },
+        {
+          "section_header": "Summary",
+          "text": "\"The New Colossus\" is a sonnet by American poet Emma Lazarus (1849–1887)."
+        }
+      ]
+    },
+    {
+      "id": "3CJlAVZjaOddWATeEl8r",
+      "wikipedia_page": "Do Not Go Gentle Into That Good Night",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Notable use in popular culture",
+          "text": "In the 1995 film Dangerous Minds, retired U.S. Marine LouAnne Johnson, played by Michelle Pfeiffer, uses the poem to teach her students and help them identify with what they are learning in her class."
+        }
+      ]
+    },
+    {
+      "id": "3CbZaUWcPbmoQUnS2J5m",
+      "wikipedia_page": "Meat Loaf",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Personal life | Politics",
+          "text": "Meat Loaf is not officially registered with any political party."
+        }
+      ]
+    },
+    {
+      "id": "3GZsBoYoXqbIQESR77Di",
+      "wikipedia_page": "Do Not Go Gentle Into That Good Night",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "The poem currently remains under copyright, although the text is available online."
+        }
+      ]
+    },
+    {
+      "id": "3Ls41xpKIznCngiwm7TX",
+      "wikipedia_page": "Treaty of Tordesillas",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "The Treaty of Tordesillas (Portuguese: Tratado de Tordesilhas"
+        },
+        {
+          "section_header": "Summary",
+          "text": "[tɾɐˈtaðu ðɨ tuɾðeˈziʎɐʃ]; Spanish: Tratado de Tordesillas [tɾaˈtaðo ðe toɾðeˈsiʎas]), signed at Tordesillas in Spain on June 7, 1494, and authenticated at Setúbal, Portugal, divided the newly discovered lands outside Europe between the Portuguese Empire and the Spanish Empire (Crown of Castile), along a meridian 370 leagues west of the Cape Verde islands, off the west coast of Africa."
+        }
+      ]
+    },
+    {
+      "id": "3QCYzGTidALbDsFFw9wS",
+      "wikipedia_page": "Rube Waddell",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 1,
+      "missing_evidence": []
+    },
+    {
+      "id": "3a006Rd1uV1twMPw0j50",
+      "wikipedia_page": "Statue of Liberty",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "The copper statue, a gift from the people of France to the people of the United States, was designed by French sculptor Frédéric Auguste Bartholdi and its metal framework was built by Gustave Eiffel."
+        }
+      ]
+    },
+    {
+      "id": "3aCetmgLfJt9BkXCKTZb",
+      "wikipedia_page": "Vic Willis",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Early life",
+          "text": "Willis was born on April 12, 1876 in Cecil County, Maryland."
+        }
+      ]
+    },
+    {
+      "id": "3b4hQHDntVzfjohkM3xE",
+      "wikipedia_page": "Christ the Redeemer (statue)",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "Christ the Redeemer (Portuguese: Cristo Redentor, standard Brazilian Portuguese: [ˈkɾistu ʁedenˈtoʁ], local pronunciation: [ˈkɾiɕtŭ̻ xe̞denˈtoɦ]) is an Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil, created by French sculptor Paul Landowski and built by Brazilian engineer Heitor da Silva Costa, in collaboration with French engineer Albert Caquot."
+        },
+        {
+          "section_header": "Summary",
+          "text": "A symbol of Christianity across the world, the statue has also become a cultural icon of both Rio de Janeiro and Brazil, and is listed as one of the New7Wonders of the World."
+        }
+      ]
+    },
+    {
+      "id": "3bTzf0qFUxp5lWtZiooe",
+      "wikipedia_page": "Sol White",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 1,
+      "missing_evidence": []
+    },
+    {
+      "id": "3g4GbNeCV3L1ArryoMWb",
+      "wikipedia_page": "Charles Evans Hughes",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Retirement and death",
+          "text": "On August 27, 1948, at the age of 86, Hughes died in what is now the Tiffany Cottage of the Wianno Club in Osterville, Massachusetts."
+        },
+        {
+          "section_header": "Retirement and death",
+          "text": "He is interred at Woodlawn Cemetery in the Bronx, New York City."
+        }
+      ]
+    },
+    {
+      "id": "3iNk3mHHcmoM6tuBghMt",
+      "wikipedia_page": "Joe Medwick",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 1,
+      "missing_evidence": []
+    },
+    {
+      "id": "3izPudVg9KJOE0JfwREX",
+      "wikipedia_page": "Battle of Gettysburg",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "The battle involved the largest number of casualties of the entire war and is often described as the war's turning point."
+        }
+      ]
+    },
+    {
+      "id": "3nf0H3qCesO4UUHJ16mQ",
+      "wikipedia_page": "The Good Earth",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 1,
+      "missing_evidence": []
+    },
+    {
+      "id": "3otpVBJTI61VNRFDBwC2",
+      "wikipedia_page": "John Quincy Adams",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Early life, education, and early career",
+          "text": "Young Adams was educated by private tutors – his cousin James Thaxter and his father's law clerk, Nathan Rice."
+        }
+      ]
+    },
+    {
+      "id": "3rZkGNYui3uKnSartdgq",
+      "wikipedia_page": "William Tecumseh Sherman",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Historiography | Sherman name in the military",
+          "text": "Formally named the Medium Tank, M4, it acquired the name \"Sherman\" from the British Army, who received M4 tanks under the Lend-Lease Act."
+        }
+      ]
+    },
+    {
+      "id": "3sOofWVZuJS9gIgmuMMm",
+      "wikipedia_page": "Jesse Haines",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 2,
+      "missing_evidence": []
+    },
+    {
+      "id": "3zYvesR3HRe4SONbAyiJ",
+      "wikipedia_page": "Hamlet",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "Set in Denmark, the play depicts Prince Hamlet and his revenge against his uncle, Claudius, who has murdered Hamlet's father in order to seize his throne and marry Hamlet's mother."
+        }
+      ]
+    },
+    {
+      "id": "3zzWjoIk9bGZP7rHXrAq",
+      "wikipedia_page": "Lionel Richie",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "He has served with Luke Bryan and Katy Perry as a judge for the singing competition American Idol since its move to ABC from the Fox network."
+        },
+        {
+          "section_header": "Career | Later career",
+          "text": "In September 2017, ABC announced that Richie would be a judge for the revival of American Idol."
+        }
+      ]
+    },
+    {
+      "id": "413wVfZM5lyhoRkdD6uW",
+      "wikipedia_page": "Woodrow Wilson",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Early life",
+          "text": "Thomas Woodrow Wilson was born to a family of Scots-Irish and Scottish descent, in Staunton, Virginia, on December 28, 1856."
+        }
+      ]
+    },
+    {
+      "id": "41kktgTVuaEnhp5wbKII",
+      "wikipedia_page": "Sister Carrie",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Plot summary",
+          "text": "Before long, however, she is shocked by the coarse manners of both the male and female factory workers, and the physical demands of the job, as well as the squalid factory conditions, begin to take their toll."
+        },
+        {
+          "section_header": "Plot summary",
+          "text": "One day, after an illness that costs her her job, she encounters Drouet on a downtown street."
+        }
+      ]
+    },
+    {
+      "id": "42aeNq7I20yEDM1QGlIW",
+      "wikipedia_page": "Hong Kong",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Economy",
+          "text": "It is the most popular Chinese city for tourists, receiving over 70 per cent more visitors than its closest competitor (Macau)."
+        }
+      ]
+    },
+    {
+      "id": "42m9LClkwudrk6EQr97N",
+      "wikipedia_page": "Luis Aparicio",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Early life",
+          "text": "Aparicio was born in Maracaibo, Zulia State, Venezuela."
+        }
+      ]
+    },
+    {
+      "id": "4A3LwaAoRoI3O8ltEIGM",
+      "wikipedia_page": "Our Town",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "The play tells the story of the fictional American small town of Grover's Corners between 1901 and 1913 through the everyday lives of its citizens."
+        }
+      ]
+    },
+    {
+      "id": "4CUqrvuBNU5XP2sb6YtH",
+      "wikipedia_page": "Isomer",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Etymology",
+          "text": "Isomer (; from Greek ἰσομερής, isomerès; isos = \"equal\", méros = \"part\") is the root of \"isomer\"."
+        }
+      ]
+    },
+    {
+      "id": "4EKxTevWXrPVb3AASV7X",
+      "wikipedia_page": "My Fair Lady",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "My Fair Lady is a musical based on George Bernard Shaw's 1913 play Pygmalion, with book and lyrics by Alan Jay Lerner and music by Frederick Loewe."
+        }
+      ]
+    },
+    {
+      "id": "4Hj7qPsSM06pR1JmtH46",
+      "wikipedia_page": "Chromatography",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 1,
+      "missing_evidence": []
+    },
+    {
+      "id": "4I8m8h0zUlYDa72C9RLh",
+      "wikipedia_page": "Linda Ronstadt",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Career overview | Solo career | Most successful female singer of the 1970s",
+          "text": "Author Andrew Greeley, in his book God in Popular Culture, described Ronstadt as \"the most successful and certainly the most durable and most gifted woman Rock singer of her era."
+        }
+      ]
+    },
+    {
+      "id": "4MTbhsWd24k1mLCVEKPu",
+      "wikipedia_page": "The Exorcist",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Films | Related films | The Ninth Configuration (1980)",
+          "text": "Released in 1980, it was based on Blatty's novel of the same name."
+        }
+      ]
+    },
+    {
+      "id": "4MhmzTUhmiMK9uQKMEB1",
+      "wikipedia_page": "Hamlet",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "It is Shakespeare's longest play with 30,557 words."
+        }
+      ]
+    },
+    {
+      "id": "4QIYXvj7g7NgryDeJVip",
+      "wikipedia_page": "John Smoltz",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 1,
+      "missing_evidence": []
+    },
+    {
+      "id": "4VgKeNTMiI5GpuqohLFU",
+      "wikipedia_page": "John Quincy Adams",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Summary",
+          "text": "John Quincy Adams ( (listen); July 11, 1767 – February 23, 1848) was an American statesman, diplomat, lawyer, and diarist who served as the sixth president of the United States, from 1825 to 1829."
+        },
+        {
+          "section_header": "Summary",
+          "text": "He was the eldest son of John Adams, who served as the second US president from 1797 to 1801, and First Lady Abigail Adams."
+        }
+      ]
+    },
+    {
+      "id": "4ZCSPvf9UcPXoEoGcV20",
+      "wikipedia_page": "Isomer",
+      "page_found": true,
+      "gold_evidence_count": 2,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Stereoisomers",
+          "text": "Two broad classes of stereoisomers are recognized: enantiomers and diastereomers."
+        },
+        {
+          "section_header": "Structural isomers",
+          "text": "Structural isomers differ in terms of the connectivity of some or all constituent atoms."
+        }
+      ]
+    },
+    {
+      "id": "4ZpbNWUjblceuQk0LnIk",
+      "wikipedia_page": "Mary, Queen of Scots",
+      "page_found": true,
+      "gold_evidence_count": 1,
+      "matched_evidence_count": 0,
+      "missing_evidence": [
+        {
+          "section_header": "Childhood and early reign",
+          "text": "On 14 December, six days after her birth, she became Queen of Scotland when her father died, perhaps from the effects of a nervous collapse following the Battle of Solway Moss or from drinking contaminated water while on campaign."
+        }
+      ]
+    }
+  ]
+}
