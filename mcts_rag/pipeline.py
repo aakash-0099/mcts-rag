@@ -95,7 +95,14 @@ class MCTSRAG:
             num_simulations=self.num_simulations,
         )
 
+        print("\n" + "=" * 60)
+        print(f"MCTS START: {question}")
+        print("=" * 60)
+
         mcts.search(root)
+
+        print("\nMCTS SEARCH COMPLETE")
+        print(self.visualize_tree(root))
 
         candidates = (
             CandidateAnswerCollector

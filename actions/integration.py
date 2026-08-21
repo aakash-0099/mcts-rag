@@ -84,7 +84,9 @@ class ActionExpansion(DefaultExpansion):
         node: Node,
         action: Action,
     ) -> Node:
-
+        print(
+            f"[EXPANSION] Executing action: {action.value}"
+        )
         if not isinstance(node.state, ActionState):
             raise TypeError(
                 "ActionExpansion requires Node.state "
@@ -122,7 +124,11 @@ class ActionExpansion(DefaultExpansion):
             parent=node,
             action=action,
         )
-
+        print(
+            f"[EXPANSION] Created child: "
+            f"action={action.value}, "
+            f"terminal={child_state.is_terminal}"
+        )
         # Mark this node fully expanded once its last untried
         # action has been consumed, so selection stops re-expanding
         # it and instead descends via UCT into its children.

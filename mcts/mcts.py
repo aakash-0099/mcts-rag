@@ -29,9 +29,21 @@ class MCTS:
         ):
             return root
 
-        for _ in range(self.num_simulations):
+        for simulation_number in range(self.num_simulations):
+
+            print(
+                f"\n[MCTS] Simulation "
+                f"{simulation_number + 1}/{self.num_simulations}"
+            )
 
             node = self.selection.select(root)
+
+            print(
+                f"[MCTS] Selected: "
+                f"action={node.action} "
+                f"visits={node.visits} "
+                f"value={node.value:.3f}"
+            )
             # print(
             #     "DEBUG MCTS:",
             #     "action=", getattr(node.action, "value", node.action),
@@ -53,6 +65,11 @@ class MCTS:
 
             child = self.expansion.expand(node)
 
+            print(
+                f"[MCTS] Expanded: "
+                f"action={child.action} "
+                f"state_type={type(child.state).__name__}"
+            )
             if child is node and not child.children:
                 # node had no untried actions and no children —
                 # a true dead end, not just a terminal revisit.
@@ -61,6 +78,10 @@ class MCTS:
                 continue
 
             reward = self.simulation.simulate(child)
+
+            print(
+                f"[MCTS] Reward: {reward:.3f}"
+            )
 
             self.backpropagation.backpropagate(
                 child,

@@ -118,14 +118,22 @@ def execute_a4(
     """
     A4 — Retrieval Reasoning.
     """
-
+    print(
+        f"[A4] Retrieving for: {state.question}"
+    )
     if retrieval_strategy is None:
         retrieval_strategy = RetrievalPipeline()
 
     result = retrieval_strategy.retrieve(
         state.question
     )
+    print(
+        f"[A4] Query: {result.query}"
+    )
 
+    print(
+        f"[A4] Retrieved {len(result.results)} results"
+    )
     if llm is not None:
         prompt = (
             f"Using the knowledge below, reason about the question. "
@@ -183,10 +191,15 @@ def execute_a5(
     subquestions = decomposition_strategy.decompose(
         state.question
     )
-
+    print(
+        f"[A5] Decomposed into: {subquestions}"
+    )
     retrieval_results = []
 
     for subquestion in subquestions:
+        print(
+            f"[A5] Retrieving subquestion: {subquestion}"
+        )
         result = retrieval_strategy.retrieve(
             subquestion
         )
