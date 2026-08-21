@@ -39,7 +39,7 @@ def main():
     llm = LLM()
 
     mcts_rag = MCTSRAG(
-        num_simulations=20,
+        num_simulations=200,
         retrieval_strategy=retrieval_strategy,
         llm=llm,
     )
