@@ -3,6 +3,9 @@ from .decomposition import (
     DecompositionStrategy,
     DefaultDecomposition,
 )
+
+from .llm_decomposition import LLMDecomposition
+
 from .llm import LLM
 
 from retrieval import (
@@ -91,12 +94,14 @@ def execute_a2(
 def execute_a3(
     state: ActionState,
     llm: LLM | None = None,
+    decomposition_strategy: DecompositionStrategy | None = None,
 ) -> ActionState:
     """
     A3 — Decompose Question.
     """
 
-    decomposition_strategy = DefaultDecomposition()
+    if decomposition_strategy is None:
+        decomposition_strategy = LLMDecomposition(llm=llm) if llm is not None else DefaultDecomposition()
 
     subquestions = decomposition_strategy.decompose(
         state.question
@@ -186,7 +191,7 @@ def execute_a5(
         retrieval_strategy = RetrievalPipeline()
 
     if decomposition_strategy is None:
-        decomposition_strategy = DefaultDecomposition()
+        decomposition_strategy = LLMDecomposition(llm=llm) if llm is not None else DefaultDecomposition()
 
     subquestions = decomposition_strategy.decompose(
         state.question
@@ -195,16 +200,35 @@ def execute_a5(
         f"[A5] Decomposed into: {subquestions}"
     )
     retrieval_results = []
+    resolved = {}  # hop index -> extracted answer, for <ANSWER_i> substitution
 
-    for subquestion in subquestions:
+    for i, raw_subq in enumerate(subquestions, start=1):
+        subquestion = raw_subq
+        for j, val in resolved.items():
+            subquestion = subquestion.replace(f"<ANSWER_{j}>", val)
+
         print(
-            f"[A5] Retrieving subquestion: {subquestion}"
+            f"[A5] Retrieving subquestion {i}: {subquestion}"
         )
         result = retrieval_strategy.retrieve(
             subquestion
         )
-
         retrieval_results.append(result)
+
+        if llm is not None:
+            hop_answer = llm.complete(
+                f"Using ONLY this knowledge, answer concisely. "
+                f"If not found, say NOT_FOUND.\n\n"
+                f"Sub-question: {subquestion}\n\n"
+                f"Knowledge:\n{result.results}\n\n"
+                f"Summary:\n{result.summary}\n\n"
+                f"Answer:"
+            ).strip()
+        else:
+            hop_answer = "NOT_FOUND"
+
+        resolved[i] = hop_answer
+        print(f"[A5] Hop {i} extracted: {hop_answer}")
 
     summaries = [
         result.summary
